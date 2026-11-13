@@ -1,6 +1,6 @@
-# OpenNess Vulnerability Scanner releases
+# Openness Vulnerability Scanner releases
 
-Installers of the [OpenNess Vulnerability Scanner](https://getopenness.com) desktop app and the
+Installers of the [Openness Vulnerability Scanner](https://getopenness.com) desktop app and the
 signed update manifest the app reads. There is no source code here; every release is published
 by the release workflow of the openness-desktop repository, which is private.
 
